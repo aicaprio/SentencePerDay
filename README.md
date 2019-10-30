@@ -1,7 +1,5 @@
 ## 每日一句 
 
-### 目录
-
 | [2019年](README.md) |
 | ------ |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[10月](2019/2019-10.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
