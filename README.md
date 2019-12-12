@@ -104,7 +104,7 @@
 它致使全球主要金融市场出现流动性不足危机。美国“次贷危机”是从2006年春季开始逐步显现的。
 2007年8月开始席卷美国、欧盟和日本等世界主要金融市场。
 </pre>
-[资料](https://baike.baidu.com/item/%E7%BE%8E%E5%9B%BD%E6%AC%A1%E8%B4%B7%E5%8D%B1%E6%9C%BA/9216445?fr=aladdin)
+>[资料](https://baike.baidu.com/item/%E7%BE%8E%E5%9B%BD%E6%AC%A1%E8%B4%B7%E5%8D%B1%E6%9C%BA/9216445?fr=aladdin)
 
 
 ### 2019-12-05
