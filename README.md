@@ -13,6 +13,14 @@
 | [11月]( 2019/11月.md)</i> | - |
 | [12月]( 2019/12月.md)</i> | - |
 
+
+### 2019-12-24
+<pre>
+
+Christmas is the day that holds all time together.                        
+</pre>
+
+
 ### 2019-12-23
 <pre>
 
