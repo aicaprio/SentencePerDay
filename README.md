@@ -23,8 +23,28 @@
 </pre>
 
 
-
 ### 2020-01-30
+<pre>
+
+一个人的缺点来自他的时代，他的美德和伟大却属于自己。
+
+
+                                       -- 伊曼努尔·康德 德国     
+</pre>
+
+
+### 2020-01-29
+<pre>
+
+一个人说出来的话必须是真的，但是他没有必要把他知道的都说出来。
+
+
+                                       -- 伊曼努尔·康德 德国     
+</pre>
+
+
+
+### 2020-01-28
 <pre>
 
 
@@ -34,7 +54,7 @@
 </pre>
 
 
-### 2020-01-29
+### 2020-01-27
 <pre>
 
 
@@ -46,7 +66,7 @@ Freedom is not letting you do whatever you wanna but teaching you not to do the 
 </pre>
 
 
-### 2020-01-28
+### 2020-01-26
 <pre>
 
 
@@ -56,7 +76,7 @@ Freedom is not letting you do whatever you wanna but teaching you not to do the 
 </pre>
 
 
-### 2020-01-27
+### 2020-01-25
 <pre>
 
 
@@ -66,25 +86,17 @@ Freedom is not letting you do whatever you wanna but teaching you not to do the 
 </pre>
 
 
-### 2020-01-26
-<pre>
-
-英雄就是对任何事都全力以赴，自始至终，心无旁鹜的人 。
-
-                                       -- 波德莱尔 法国     
-</pre>
-
-
-### 2020-01-25
-<pre>
-
-英雄就是对任何事都全力以赴，自始至终，心无旁鹜的人 。
-
-                                       -- 波德莱尔 法国     
-</pre>
-
-
 ### 2020-01-24
+<pre>
+
+英雄就是对任何事都全力以赴，自始至终，心无旁鹜的人 。
+
+                                       -- 波德莱尔 法国     
+</pre>
+
+
+
+### 2020-01-23
 <pre>
 
 也许你我终将行踪不明，但是你该知道我曾为你动情。
@@ -93,19 +105,10 @@ Freedom is not letting you do whatever you wanna but teaching you not to do the 
 </pre>
 
 
-### 2020-01-23
-<pre>
-
-我们既无力作恶亦无力为善。
-
-                                       -- 阿尔贝·加缪 法国     
-</pre>
-
-
 ### 2020-01-22
 <pre>
 
-爱，可燃烧，或存在，但不会两者并存。
+我们既无力作恶亦无力为善。
 
                                        -- 阿尔贝·加缪 法国     
 </pre>
