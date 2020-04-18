@@ -760,9 +760,3 @@ Christmas is the day that holds all time together.
 
                                        -- 苏轼 北宋 《和子由渑池怀旧》
 </pre>
-
-
-### 2019-11-20
-<pre>
-
-墙里秋千墙外道。墙外行人，墙里
