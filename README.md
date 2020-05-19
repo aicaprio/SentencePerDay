@@ -83,7 +83,6 @@ Freedom is not letting you do whatever you wanna but teaching you not to do the 
 
 一个人的缺点来自他的时代，他的美德和伟大却属于自己。
 
-
                                        -- 伊曼努尔·康德 德国     
 </pre>
 
