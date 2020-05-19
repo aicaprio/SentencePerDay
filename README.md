@@ -40,7 +40,7 @@
 <pre>
 
 相视而笑，莫逆于心。
-                                       -- 庄子 战国 《大宗师》                                                                              
+                                       -- 庄子 战国 《大宗师》                                                                            
 </pre>
 
 
@@ -49,7 +49,7 @@
 
 人生天地之间，若白驹过隙，忽然而已。
 
-                                       -- 庄子 战国 《知北游》                                                                        
+                                       -- 庄子 战国 《知北游》                                                                   
 </pre>
 
 
@@ -88,7 +88,6 @@ Freedom is not letting you do whatever you wanna but teaching you not to do the 
 <pre>
 
 一个人说出来的话必须是真的，但是他没有必要把他知道的都说出来。
-
 
                                        -- 伊曼努尔·康德 德国     
 </pre>
