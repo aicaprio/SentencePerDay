@@ -1210,8 +1210,7 @@ Christmas is the day that holds all time together.
 
 <i>(不凭空臆测，不绝对肯定，不固执己见，不自以为是)</i>
 
-                                       -- 孔子 春秋 《论语·子罕篇》
-                                   
+                                       -- 孔子 春秋 《论语·子罕篇》                                
 </pre>
 
 ### 2019-10-29
