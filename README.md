@@ -1174,7 +1174,7 @@ Christmas is the day that holds all time together.
 
 <i>(条条绿柳在霞光晨雾中轻摆曼舞，粉红的杏花开满枝头春意妖娆)</i>
 
-                                       -- 宋祁 北宋 《玉楼春·春景》                                       
+                                       -- 宋祁 北宋 《玉楼春·春景》
 </pre>
 
 ### 2019-10-30
