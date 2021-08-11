@@ -744,7 +744,7 @@ Christmas is the day that holds all time together.
 月色与雪色之间
 你是第三种绝色
 
-                                       -- 余光中 当代 《摸鱼儿·更能消几番风雨》
+                                       -- 余光中 当代
 </pre>
 
 ### 2019-12-16
